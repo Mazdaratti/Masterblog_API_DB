@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "title": "Exploring Flask Framework",
+        "content": "This post covers the basics of Flask and how to set up your first application.",
+        "author": "Alice",
+        "created": "2024-10-01",
+        "updated": "2024-11-11"
+    },
+    {
+        "id": 2,
+        "title": "Introduction to RESTful APIs",
+        "content": "Learn how to create RESTful APIs with Flask, including methods, routes, and more.",
+        "author": "Bob",
+        "created": "2024-10-03",
+        "updated": "2024-11-12"
+    },
+    {
+        "id": 3,
+        "title": "Understanding JSON",
+        "content": "A deep dive into JSON structure, syntax, and usage in modern web applications.",
+        "author": "Charlie",
+        "created": "2024-10-05",
+        "updated": "2024-10-05"
+    },
+    {
+        "id": 4,
+        "title": "Best Practices in API Design",
+        "content": "An exploration of best practices in API design, including versioning, error handling, and documentation.",
+        "author": "Alice",
+        "created": "2024-10-08",
+        "updated": "2024-10-08"
+    },
+    {
+        "id": 5,
+        "title": "Data Persistence in Flask",
+        "content": "Learn how to handle data persistence in Flask applications using JSON files and databases.",
+        "author": "Dave",
+        "created": "2024-10-10",
+        "updated": "2024-10-10"
+    },
+    {
+        "id": 6,
+        "title": "Introduction to Python Decorators",
+        "content": "An introduction to Python decorators, their use cases, and how to implement them.",
+        "author": "Eve",
+        "created": "2024-10-12",
+        "updated": "2024-10-12"
+    },
+    {
+        "id": 7,
+        "title": "Building Secure APIs with Flask",
+        "content": "An overview of security measures for Flask APIs, including authentication and authorization.",
+        "author": "Frank",
+        "created": "2024-10-14",
+        "updated": "2024-10-14"
+    },
+    {
+        "id": 8,
+        "title": "Using Flask with SQLAlchemy",
+        "content": "A guide on integrating SQLAlchemy with Flask for database management and ORM functionality.",
+        "author": "Alice",
+        "created": "2024-10-16",
+        "updated": "2024-10-16"
+    },
+    {
+        "id": 9,
+        "title": "Unit Testing in Flask",
+        "content": "Learn how to write unit tests for your Flask application to ensure reliability and maintainability.",
+        "author": "Bob",
+        "created": "2024-10-18"
+    },
+    {
+        "id": 10,
+        "title": "Deploying Flask Applications",
+        "content": "An end-to-end guide on deploying Flask applications to cloud platforms.",
+        "author": "Charlie",
+        "created": "2024-10-20"
+    },
+    {
+        "title": "Updated Blog Title",
+        "content": "Updated content of the blog post.",
+        "author": "Updated Author Name",
+        "id": 11,
+        "created": "2024-11-11",
+        "updated": "2024-11-12"
+    },
+    {
+        "title": "Updated Blog Title ",
+        "content": "Updated content of the blog post.",
+        "author": "Updated Author Mazdaratti",
+        "id": 12,
+        "created": "2024-11-12"
+    },
+    {
+        "title": "My First Blog Post",
+        "content": "This is the content of the blog post.",
+        "author": "John Doe",
+        "id": 13,
+        "created": "2024-11-12"
+    },
+    {
+        "title": "test",
+        "content": "test",
+        "author": "test",
+        "id": 14,
+        "created": "2024-11-13"
+    }
+]
